@@ -2,6 +2,8 @@
 
 An LLM-powered chat task tracker. Send natural-language messages; the assistant interprets them and creates, completes, or annotates tasks. A read-only web UI displays the task list and attached notes.
 
+![Demo](demo.mp4)
+
 ---
 
 ## Quick Start
